@@ -1,0 +1,1308 @@
+[
+  {
+    "id": "physics-work-energy-power",
+    "course": "Physics",
+    "title": "Work, Energy & Power",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Which statement best describes the principle of conservation of energy?",
+        "choices": [
+          "Energy can be created",
+          "Energy can be destroyed",
+          "Energy can change form but the total remains constant",
+          "Energy always increases"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Work done by a force is best described as",
+        "choices": [
+          "A change in mass",
+          "A transfer of energy",
+          "A change in time",
+          "A force without motion"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Energy transfers in a system are best represented using",
+        "choices": [
+          "Motion graphs",
+          "Free-body diagrams",
+          "Sankey diagrams",
+          "Vector diagrams"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "No work is done by a force when",
+        "choices": [
+          "The force is large",
+          "The object moves fast",
+          "The force is perpendicular to the displacement",
+          "The object accelerates"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "When no frictional forces act, the total energy of a system",
+        "choices": [
+          "Increases",
+          "Decreases",
+          "Remains constant",
+          "Becomes zero"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which form of energy depends on mass and speed?",
+        "choices": [
+          "Gravitational potential energy",
+          "Elastic potential energy",
+          "Kinetic energy",
+          "Thermal energy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Gravitational potential energy depends on",
+        "choices": [
+          "Speed only",
+          "Time only",
+          "Mass and height",
+          "Force and time"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "The work done by the resultant force on an object is equal to",
+        "choices": [
+          "The force multiplied by time",
+          "The change in momentum",
+          "The change in energy of the object",
+          "The total power"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which quantity is a scalar?",
+        "choices": [
+          "Force",
+          "Velocity",
+          "Displacement",
+          "Energy"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "type": "mc",
+        "questionText": "Power is defined as",
+        "choices": [
+          "Force divided by distance",
+          "Energy transferred per unit time",
+          "Work multiplied by time",
+          "Energy stored in a system"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which unit is used for power?",
+        "choices": [
+          "Joule",
+          "Newton",
+          "Watt",
+          "Pascal"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Efficiency compares",
+        "choices": [
+          "Energy lost to time",
+          "Useful output to total input",
+          "Force to displacement",
+          "Power to energy"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "A system with 100% efficiency means",
+        "choices": [
+          "Some energy is wasted",
+          "All input energy is useful output",
+          "Energy is destroyed",
+          "Power is zero"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "When friction acts, some energy is mainly transferred into",
+        "choices": [
+          "Electrical energy",
+          "Nuclear energy",
+          "Thermal energy",
+          "Elastic energy"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "In a Sankey diagram, the width of the arrows represents",
+        "choices": [
+          "Force",
+          "Speed",
+          "Energy transfer",
+          "Power"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Work done by a constant force is given by W = ______.",
+        "choices": [
+          "Fs",
+          "Ft",
+          "Fs cos theta",
+          "Fv"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "When a force acts at 90 degrees to the displacement, the work done is",
+        "choices": [
+          "Maximum",
+          "Positive",
+          "Zero",
+          "Negative"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "The kinetic energy of an object is given by",
+        "choices": [
+          "mv",
+          "mv^2",
+          "1/2 mv^2",
+          "p^2"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Gravitational potential energy near Earth's surface is",
+        "choices": [
+          "mg",
+          "mgh",
+          "gh",
+          "1/2 gh^2"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Elastic potential energy stored in a spring is",
+        "choices": [
+          "kx",
+          "1/2 kx",
+          "kx^2",
+          "1/2 kx^2"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "type": "mc",
+        "questionText": "If no resistive forces act, the total energy of a system remains",
+        "choices": [
+          "Zero",
+          "Increasing",
+          "Constant",
+          "Decreasing"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Power can be calculated using P =",
+        "choices": [
+          "E x t",
+          "E / t",
+          "F / t",
+          "m / v"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Instantaneous power for a moving object is given by",
+        "choices": [
+          "P = Fs",
+          "P = Ft",
+          "P = Fv",
+          "P = mv"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Efficiency is calculated as",
+        "choices": [
+          "Input / output",
+          "Output / input",
+          "Lost energy / time",
+          "Power / force"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Efficiency is usually expressed as a",
+        "choices": [
+          "Force",
+          "Energy",
+          "Percentage",
+          "Velocity"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "When friction is present, some useful energy is",
+        "choices": [
+          "Created",
+          "Stored",
+          "Converted to thermal energy",
+          "Conserved"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A Sankey diagram shows how energy is",
+        "choices": [
+          "Created",
+          "Destroyed",
+          "Transferred and wasted",
+          "Stored only"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Power measures how ______ energy is transferred.",
+        "choices": [
+          "Much",
+          "Quickly",
+          "Slowly",
+          "Accurately"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "One joule is equivalent to",
+        "choices": [
+          "Watt second",
+          "Newton meter",
+          "Kilogram meter",
+          "Pascal second"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Work is done only if there is",
+        "choices": [
+          "A force",
+          "Motion",
+          "Displacement in the direction of the force",
+          "Acceleration"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A force of 20 N acts over 5.0 m in the direction of motion. How much work is done?",
+        "choices": [
+          "25 J",
+          "50 J",
+          "100 J",
+          "200 J"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A force of 10 N acts at 60 degrees to the direction of motion over 4.0 m. What is the work done?",
+        "choices": [
+          "10 J",
+          "20 J",
+          "40 J",
+          "80 J"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "A 2.0 kg object moves at 3.0 m s^-1. What is its kinetic energy?",
+        "choices": [
+          "6 J",
+          "9 J",
+          "12 J",
+          "18 J"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "A 5.0 kg object is lifted vertically by 4.0 m. Take g = 10 m s^-2. What is the gain in gravitational potential energy?",
+        "choices": [
+          "100 J",
+          "150 J",
+          "180 J",
+          "200 J"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "type": "mc",
+        "questionText": "A spring with k = 400 N m^-1 is stretched by 0.20 m. How much elastic potential energy is stored?",
+        "choices": [
+          "4 J",
+          "6 J",
+          "8 J",
+          "16 J"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "An object loses 60 J of energy due to friction. This energy is mainly transferred into",
+        "choices": [
+          "Sound",
+          "Electrical",
+          "Thermal",
+          "Elastic"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A machine transfers 1200 J of energy in 4.0 s. What is the power output?",
+        "choices": [
+          "200 W",
+          "250 W",
+          "300 W",
+          "4800 W"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A force of 50 N moves an object at a constant speed of 4.0 m s^-1. What power is delivered?",
+        "choices": [
+          "100 W",
+          "150 W",
+          "200 W",
+          "400 W"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A machine has an energy input of 500 J and a useful output of 350 J. What is its efficiency?",
+        "choices": [
+          "50%",
+          "60%",
+          "70%",
+          "85%"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A student gains 800 J of gravitational potential energy in 4.0 s. What is the power output?",
+        "choices": [
+          "100 W",
+          "150 W",
+          "200 W",
+          "3200 W"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Ignoring air resistance, what happens to the total energy of a freely falling object?",
+        "choices": [
+          "It increases",
+          "It decreases",
+          "It remains constant",
+          "It becomes zero"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A 3.0 kg object has 54 J of kinetic energy. What is its speed?",
+        "choices": [
+          "4.0 m s^-1",
+          "5.0 m s^-1",
+          "6.0 m s^-1",
+          "9.0 m s^-1"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which quantity remains constant when no resistive forces act?",
+        "choices": [
+          "Speed",
+          "Height",
+          "Total energy",
+          "Force"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A system is inefficient mainly because",
+        "choices": [
+          "Energy is lost as heat",
+          "Power increases",
+          "Energy is conserved",
+          "Work is zero"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Increasing efficiency means",
+        "choices": [
+          "More energy wasted",
+          "Less useful output",
+          "Less energy wasted",
+          "Higher force applied"
+        ],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "physics-electrostatics-electric-field-potential-45q",
+    "course": "Physics",
+    "title": "Electrostatics, Electric Field & Electric Potential (45 Questions) - Mr. Mercado",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Which particle has a negative electric charge?",
+        "choices": ["Proton", "Neutron", "Electron", "Atom"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Objects with the same type of charge will",
+        "choices": ["Attract each other", "Repel each other", "Become neutral", "Lose mass"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "When an object loses electrons, it becomes",
+        "choices": ["Negatively charged", "Neutral", "Positively charged", "Heavier"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Static electricity is mainly caused by",
+        "choices": ["Gravity", "Motion of protons", "Transfer of electrons", "Heat"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which process involves rubbing two objects together?",
+        "choices": ["Conduction", "Induction", "Friction", "Polarization"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "What happens during charging by contact?",
+        "choices": ["Objects do not touch", "Charges move through air", "Objects touch and share charge", "Charges disappear"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Charging by induction requires",
+        "choices": ["Direct contact", "No contact", "Water", "Heat"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "An electric field exists",
+        "choices": ["Only inside wires", "Only when objects touch", "Around electric charges", "Only in metals"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric field lines always point",
+        "choices": ["From negative to positive", "From positive to negative", "In circles", "Randomly"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "A stronger electric field means",
+        "choices": ["Weaker force on a charge", "No force on a charge", "Greater force on a charge", "No charges nearby"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric potential is best described as",
+        "choices": ["Electric force", "Electric energy per charge", "Electric current", "Resistance"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric potential is commonly measured in",
+        "choices": ["Newtons", "Coulombs", "Volts", "Amperes"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "A surface where electric potential is the same everywhere is called",
+        "choices": ["Electric surface", "Field surface", "Equipotential surface", "Neutral surface"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Moving a charge along an equipotential surface requires",
+        "choices": ["A lot of work", "Some work", "No work", "Maximum force"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which charge creates an electric field?",
+        "choices": ["Only positive charges", "Only negative charges", "Only neutral objects", "Any electric charge"],
+        "correctIndex": 3
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance between two charges increases, the electric force",
+        "choices": ["Increases", "Decreases", "Stays the same", "Becomes zero instantly"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Coulomb's Law relates electric force to",
+        "choices": ["Mass and speed", "Charge and distance", "Energy and time", "Voltage and current"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "The unit of electric charge is",
+        "choices": ["Volt", "Newton", "Coulomb", "Joule"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "An object with equal protons and electrons is",
+        "choices": ["Positively charged", "Negatively charged", "Neutral", "Polarized"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which situation shows electrostatic attraction?",
+        "choices": ["Two positive charges close together", "Two negative charges far apart", "A charged balloon sticking to a wall", "A neutral object alone"],
+        "correctIndex": 2
+      },
+      {
+        "type": "fill",
+        "questionText": "Like charges ________ each other. (attract / repel)",
+        "answer": "repel"
+      },
+      {
+        "type": "fill",
+        "questionText": "Unlike charges ________ each other. (attract / repel)",
+        "answer": "attract"
+      },
+      {
+        "type": "fill",
+        "questionText": "Electric force acts at a ________. (distance / contact)",
+        "answer": "distance"
+      },
+      {
+        "type": "fill",
+        "questionText": "An electric field shows the region where a ________ feels a force. (charge / mass)",
+        "answer": "charge"
+      },
+      {
+        "type": "fill",
+        "questionText": "Electric potential tells how much ________ a charge has. (energy / mass)",
+        "answer": "energy"
+      },
+      {
+        "type": "fill",
+        "questionText": "Coulomb's Law is used to calculate electric ________. (force / potential)",
+        "answer": "force"
+      },
+      {
+        "type": "fill",
+        "questionText": "When electrons move from one object to another, the objects become ________. (charged / heavier)",
+        "answer": "charged"
+      },
+      {
+        "type": "fill",
+        "questionText": "Electric field lines never ________. (cross / stop)",
+        "answer": "cross"
+      },
+      {
+        "type": "fill",
+        "questionText": "The closer two charges are, the ________ the electric force. (stronger / weaker)",
+        "answer": "stronger"
+      },
+      {
+        "type": "fill",
+        "questionText": "A volt measures electric ________. (potential / charge)",
+        "answer": "potential"
+      },
+      {
+        "type": "fill",
+        "questionText": "The particle with no electric charge is called a __________.",
+        "answer": "neutron"
+      },
+      {
+        "type": "fill",
+        "questionText": "The buildup of electric charges on an object is called __________ electricity.",
+        "answer": "static"
+      },
+      {
+        "type": "fill",
+        "questionText": "The area around a charge where it can affect other charges is the electric __________.",
+        "answer": "field"
+      },
+      {
+        "type": "fill",
+        "questionText": "A surface of constant electric potential is called an __________ surface.",
+        "answer": "equipotential"
+      },
+      {
+        "type": "fill",
+        "questionText": "The law that describes the force between two charges is called __________ Law.",
+        "answer": "coulomb"
+      },
+      {
+        "type": "fill",
+        "questionText": "Two charges of +2 C and +2 C are placed close together. Are they attracting or repelling?",
+        "answer": "repelling"
+      },
+      {
+        "type": "fill",
+        "questionText": "Two charges of +3 C and -3 C are placed near each other. Are they attracting or repelling?",
+        "answer": "attracting"
+      },
+      {
+        "type": "mc",
+        "questionText": "If the distance between two charges doubles, the electric force becomes",
+        "choices": ["Twice as large", "Half as large", "Four times smaller", "Four times larger"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "If one charge is zero, the electric force is",
+        "choices": ["Maximum", "Minimum", "Zero", "Infinite"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "If both charges increase, the electric force will",
+        "choices": ["Decrease", "Stay the same", "Increase", "Disappear"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Two charges are 1 m apart. If the distance becomes 2 m, the force becomes",
+        "choices": ["2 times bigger", "2 times smaller", "4 times smaller", "4 times bigger"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "If the charges are opposite in sign, the force is",
+        "choices": ["Repulsive", "Attractive", "Zero", "Random"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which factor does NOT affect Coulomb force?",
+        "choices": ["Charge value", "Distance", "Mass", "Medium"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance decreases, electric force",
+        "choices": ["Decreases", "Increases", "Stays constant", "Becomes zero"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Coulomb's Law is similar to which other law in physics?",
+        "choices": ["Ohm's Law", "Newton's Law of Gravitation", "Law of Conservation of Energy", "Boyle's Law"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "chemistry-mole-concept-45q",
+    "course": "Chemistry",
+    "title": "Mole Concept Review (45 Questions) - Mr. Mercado",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Avogadro's number is approximately:",
+        "choices": ["6.022 x 10^23", "6.022 x 10^22", "3.01 x 10^23", "1.00 x 10^23"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "One mole is defined as:",
+        "choices": ["6.022 x 10^23 entities", "1 gram of a substance", "1 liter of gas", "10^20 particles"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The unit of molar mass is:",
+        "choices": ["g", "g/mol", "mol/L", "L/mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "How many particles are in 0.50 mol?",
+        "choices": ["3.011 x 10^23", "6.022 x 10^23", "1.204 x 10^24", "3.011 x 10^22"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles are in 1.204 x 10^24 particles?",
+        "choices": ["0.5 mol", "1 mol", "2 mol", "3 mol"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "The molar mass of H2O is about:",
+        "choices": ["18 g/mol", "16 g/mol", "20 g/mol", "22 g/mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The molar mass of CO2 is about:",
+        "choices": ["28 g/mol", "32 g/mol", "44 g/mol", "18 g/mol"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles are in 36 g of H2O?",
+        "choices": ["1 mol", "2 mol", "0.5 mol", "4 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "The mass of 2.0 mol of NaCl (58.5 g/mol) is about:",
+        "choices": ["117 g", "58.5 g", "29.3 g", "234 g"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If you have 5.0 g of H2 (2 g/mol), how many moles is that?",
+        "choices": ["1.0 mol", "2.5 mol", "5.0 mol", "10 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "0.10 mol of particles contains approximately:",
+        "choices": ["6.022 x 10^22", "6.022 x 10^23", "3.011 x 10^23", "1.204 x 10^24"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The molar volume of an ideal gas at STP is about:",
+        "choices": ["22.4 L", "24.0 L", "11.2 L", "44.8 L"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The correct relationship between m, n, and M is:",
+        "choices": ["n = m / M", "M = m / n^2", "m = M / n", "n = M / m"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The formula for mass from moles is:",
+        "choices": ["m = nM", "m = n / M", "m = M / n", "m = n + M"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The formula for particles is:",
+        "choices": ["N = n x NA", "N = n / NA", "N = NA / n", "N = n + NA"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "44 g of CO2 correspond to:",
+        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "The mass of 0.25 mol of CO2 is about:",
+        "choices": ["11 g", "22 g", "44 g", "88 g"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The mass of 3.0 mol of O2 (32 g/mol) is:",
+        "choices": ["64 g", "96 g", "128 g", "32 g"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles are in 16 g of O2 (32 g/mol)?",
+        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "How many particles are in 3.0 mol?",
+        "choices": ["1.8066 x 10^24", "6.022 x 10^23", "3.011 x 10^23", "9.03 x 10^22"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "At constant temperature and pressure, gas volume is proportional to:",
+        "choices": ["moles", "molar mass", "density", "temperature"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The volume of 2.0 mol of a gas at STP is about:",
+        "choices": ["11.2 L", "22.4 L", "44.8 L", "2.0 L"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles are in 11.2 L of a gas at STP?",
+        "choices": ["0.25 mol", "0.5 mol", "1 mol", "2 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "How many molecules are in 5.0 mol?",
+        "choices": ["3.011 x 10^24", "6.022 x 10^23", "1.204 x 10^24", "5.0 x 10^23"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The molar mass of sodium (Na) is about:",
+        "choices": ["23 g/mol", "12 g/mol", "39 g/mol", "16 g/mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The molar mass of CaCl2 is closest to:",
+        "choices": ["74 g/mol", "111 g/mol", "58.5 g/mol", "98 g/mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "The mass of 0.10 mol of CaCl2 is about:",
+        "choices": ["11.1 g", "5.85 g", "22.2 g", "1.11 g"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "18 g of glucose (C6H12O6, 180 g/mol) is:",
+        "choices": ["0.10 mol", "0.50 mol", "1 mol", "2 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "6.022 x 10^23 atoms of Mg correspond to:",
+        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "1.204 x 10^24 atoms correspond to:",
+        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which statement about molar mass is correct?",
+        "choices": ["It equals the formula mass in g/mol", "It is measured in mol/L", "It is always 1 g/mol", "It equals the number of particles"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "46 g of Na corresponds to:",
+        "choices": ["1 mol", "2 mol", "3 mol", "0.5 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles of H atoms are in 1 mol of H2?",
+        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "The correct conversion from particles to moles is:",
+        "choices": ["n = N / NA", "n = N x NA", "n = NA / N", "n = N + NA"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "3.01 x 10^23 molecules correspond to:",
+        "choices": ["0.5 mol", "1 mol", "2 mol", "3 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "0.20 mol of O2 contains how many molecules?",
+        "choices": ["1.204 x 10^23", "6.022 x 10^22", "2.408 x 10^23", "3.011 x 10^23"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "0.20 mol of O2 contains how many atoms?",
+        "choices": ["2.408 x 10^23", "1.204 x 10^23", "6.022 x 10^23", "3.011 x 10^23"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The mass of 1 mol of H2O is:",
+        "choices": ["18 g", "16 g", "20 g", "22 g"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If the molar mass is 50 g/mol, 125 g corresponds to:",
+        "choices": ["0.5 mol", "1 mol", "2.5 mol", "5 mol"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Avogadro's number tells the number of ______ in one mole.",
+        "choices": ["particles", "grams", "liters", "seconds"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "12 g of carbon corresponds to:",
+        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "24 g of carbon corresponds to:",
+        "choices": ["1 mol", "2 mol", "3 mol", "0.5 mol"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "How many moles are in 2.24 L of a gas at STP?",
+        "choices": ["0.10 mol", "0.20 mol", "0.50 mol", "1.00 mol"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "How many liters at STP correspond to 0.25 mol of gas?",
+        "choices": ["5.6 L", "11.2 L", "22.4 L", "2.24 L"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which is required to convert mass to moles?",
+        "choices": ["Molar mass", "Temperature", "Density", "Pressure"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which equation relates moles, particles, and Avogadro's number?",
+        "choices": ["N = n x NA", "N = n / NA", "n = NA / N", "N = NA - n"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which set of units matches molar mass?",
+        "choices": ["g/mol", "mol/L", "g/L", "L/mol"],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "id": "chemistry-periodic-table-naming-45q",
+    "course": "Chemistry",
+    "title": "Periodic Table and Naming Compounds Review (45 Questions) - Mr. Mercado",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Which element is a metal?",
+        "choices": ["Oxygen", "Sulfur", "Sodium", "Chlorine"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is a nonmetal?",
+        "choices": ["Iron", "Calcium", "Nitrogen", "Aluminum"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is a metalloid?",
+        "choices": ["Silicon", "Sodium", "Argon", "Bromine"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Most elements on the periodic table are:",
+        "choices": ["Nonmetals", "Metals", "Metalloids", "Noble gases"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which group contains the noble gases?",
+        "choices": ["Group 1", "Group 2", "Group 17", "Group 18"],
+        "correctIndex": 3
+      },
+      {
+        "type": "mc",
+        "questionText": "Which group contains the alkali metals?",
+        "choices": ["Group 1", "Group 2", "Group 16", "Group 18"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is in Group 17?",
+        "choices": ["Neon", "Chlorine", "Sodium", "Magnesium"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Elements in the same group have the same number of:",
+        "choices": ["Protons", "Neutrons", "Valence electrons", "Energy levels"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Elements in the same period have the same number of:",
+        "choices": ["Valence electrons", "Protons", "Energy levels", "Neutrons"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is an alkaline earth metal?",
+        "choices": ["Sodium", "Magnesium", "Potassium", "Chlorine"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is a transition metal?",
+        "choices": ["Iron", "Calcium", "Oxygen", "Neon"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which property generally increases from left to right across a period?",
+        "choices": ["Atomic radius", "Metallic character", "Electronegativity", "Number of shells"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which property generally increases down a group?",
+        "choices": ["Electronegativity", "Ionization energy", "Atomic radius", "Nonmetal character"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "What type of compound is formed between a metal and a nonmetal?",
+        "choices": ["Covalent", "Ionic", "Metallic", "Organic"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "What type of compound is formed between two nonmetals?",
+        "choices": ["Ionic", "Metallic", "Covalent", "Ionic lattice"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "NaCl is best described as:",
+        "choices": ["A molecule", "A covalent compound", "An ionic compound", "An element"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "CO2 is best described as:",
+        "choices": ["An ionic compound", "A covalent compound", "A metal", "A formula unit"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which name is correct for NaCl?",
+        "choices": ["Sodium chlorine", "Sodium chlorate", "Sodium chloride", "Sodium chlorite"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which name is correct for CaO?",
+        "choices": ["Calcium oxygen", "Calcium oxide", "Calcium dioxide", "Calcium peroxide"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which compound is named carbon monoxide?",
+        "choices": ["CO", "CO2", "C2O", "C2O2"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which prefix means two?",
+        "choices": ["Mono-", "Di-", "Tri-", "Tetra-"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which prefix is NOT used for the first element in covalent naming?",
+        "choices": ["Mono-", "Di-", "Tri-", "Tetra-"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "What is the correct name for N2O?",
+        "choices": ["Nitrogen oxide", "Dinitrogen monoxide", "Nitrogen dioxide", "Mononitrogen oxide"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "What is the correct formula for sulfur dioxide?",
+        "choices": ["SO", "SO2", "S2O", "S2O2"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element has atomic number 8?",
+        "choices": ["Nitrogen", "Oxygen", "Carbon", "Fluorine"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is a halogen?",
+        "choices": ["Neon", "Chlorine", "Sodium", "Magnesium"],
+        "correctIndex": 1
+      },
+      {
+        "type": "mc",
+        "questionText": "Which element is a noble gas?",
+        "choices": ["Oxygen", "Nitrogen", "Neon", "Chlorine"],
+        "correctIndex": 2
+      },
+      {
+        "type": "mc",
+        "questionText": "Which charge does a Group 1 metal usually form?",
+        "choices": ["+1", "+2", "-1", "-2"],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which charge does a Group 17 element usually form?",
+        "choices": ["+1", "+2", "-1", "-2"],
+        "correctIndex": 2
+      },
+      {
+        "type": "fill",
+        "questionText": "Elements on the left side of the periodic table are mostly ____________.",
+        "answer": "metals"
+      },
+      {
+        "type": "fill",
+        "questionText": "Elements on the right side of the periodic table are mostly ____________.",
+        "answer": "nonmetals"
+      },
+      {
+        "type": "fill",
+        "questionText": "Elements in Group 18 are called ____________ gases.",
+        "answer": "noble"
+      },
+      {
+        "type": "fill",
+        "questionText": "A compound formed from ions is called an ____________ compound.",
+        "answer": "ionic"
+      },
+      {
+        "type": "fill",
+        "questionText": "A compound formed from shared electrons is called a ____________ compound.",
+        "answer": "covalent"
+      },
+      {
+        "type": "fill",
+        "questionText": "The horizontal rows on the periodic table are called ____________.",
+        "answer": "periods"
+      },
+      {
+        "type": "fill",
+        "questionText": "The vertical columns on the periodic table are called ____________.",
+        "answer": "groups"
+      },
+      {
+        "type": "fill",
+        "questionText": "The symbol Na stands for ____________.",
+        "answer": "sodium"
+      },
+      {
+        "type": "fill",
+        "questionText": "The symbol K stands for ____________.",
+        "answer": "potassium"
+      },
+      {
+        "type": "fill",
+        "questionText": "The ending -ide is used when naming ____________ compounds.",
+        "answer": "binary"
+      },
+      {
+        "type": "fill",
+        "questionText": "CO2 is named carbon ____________.",
+        "answer": "dioxide"
+      },
+      {
+        "type": "fill",
+        "questionText": "NaCl is composed of a metal and a ____________.",
+        "answer": "nonmetal"
+      },
+      {
+        "type": "fill",
+        "questionText": "The periodic table is arranged by increasing ____________ number.",
+        "answer": "atomic"
+      },
+      {
+        "type": "fill",
+        "questionText": "Elements with similar properties are found in the same ____________.",
+        "answer": "group"
+      }
+    ]
+  }
+]
