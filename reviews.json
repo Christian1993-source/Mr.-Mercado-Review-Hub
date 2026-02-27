@@ -1,5 +1,915 @@
 [
   {
+    "id": "physics-newton1-motion-basics-45q",
+    "course": "Physics",
+    "title": "Newton's First Law, Mass, Weight, Speed, Velocity, Distance & Displacement (45 Questions) - Mr. Mercado",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Newton's First Law is also called the law of:",
+        "choices": [
+          "inertia",
+          "acceleration",
+          "action-reaction",
+          "gravitation"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Newton's First Law states that an object at rest will stay at rest unless acted on by:",
+        "choices": [
+          "an unbalanced force",
+          "balanced forces",
+          "its mass",
+          "its weight"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Newton's First Law states that an object in motion will continue in motion with constant velocity unless acted on by:",
+        "choices": [
+          "an unbalanced force",
+          "balanced forces",
+          "gravity only",
+          "air only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Inertia is best described as:",
+        "choices": [
+          "resistance to changes in motion",
+          "ability to move quickly",
+          "gravitational pull",
+          "energy of motion"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which quantity measures inertia?",
+        "choices": [
+          "mass",
+          "weight",
+          "speed",
+          "distance"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Mass is measured in:",
+        "choices": [
+          "kilograms",
+          "newtons",
+          "meters",
+          "seconds"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Weight is measured in:",
+        "choices": [
+          "newtons",
+          "kilograms",
+          "meters",
+          "joules"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Weight is best defined as:",
+        "choices": [
+          "gravitational force on an object",
+          "amount of matter",
+          "distance traveled",
+          "rate of change of speed"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Mass and weight are the same on Earth and Moon.",
+        "choices": [
+          "false",
+          "true",
+          "only for large objects",
+          "only for small objects"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "An astronaut on the Moon has:",
+        "choices": [
+          "same mass, less weight",
+          "less mass, same weight",
+          "more mass, less weight",
+          "same mass, same weight"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The formula for weight near Earth is:",
+        "choices": [
+          "W = m g",
+          "W = m / g",
+          "W = g / m",
+          "W = m + g"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Average speed is calculated by:",
+        "choices": [
+          "total distance divided by total time",
+          "displacement divided by time with direction",
+          "mass divided by time",
+          "force divided by mass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Speed is a:",
+        "choices": [
+          "scalar",
+          "vector",
+          "force",
+          "unit"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Velocity is a:",
+        "choices": [
+          "vector",
+          "scalar",
+          "mass",
+          "force"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The main difference between speed and velocity is:",
+        "choices": [
+          "velocity includes direction",
+          "speed includes direction",
+          "speed uses displacement",
+          "there is no difference"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Distance is:",
+        "choices": [
+          "total path length traveled",
+          "shortest straight-line change in position",
+          "speed with direction",
+          "force times distance"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Displacement is:",
+        "choices": [
+          "change in position from start to finish",
+          "total path length",
+          "mass per unit volume",
+          "distance per second"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Distance is always ____ displacement magnitude for a trip.",
+        "choices": [
+          "greater than or equal to",
+          "less than",
+          "equal to",
+          "unrelated to"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If you walk 3 m east then 3 m west, your displacement is:",
+        "choices": [
+          "0 m",
+          "6 m",
+          "3 m east",
+          "3 m west"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If you walk 3 m east then 3 m west, your distance is:",
+        "choices": [
+          "6 m",
+          "0 m",
+          "3 m",
+          "depends on mass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A car moves at constant velocity. The net force on it is:",
+        "choices": [
+          "zero",
+          "positive",
+          "negative",
+          "equal to weight"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Balanced forces produce:",
+        "choices": [
+          "no change in motion",
+          "always acceleration",
+          "always stop",
+          "always faster speed"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Unbalanced forces produce:",
+        "choices": [
+          "a change in motion",
+          "no motion",
+          "constant mass",
+          "constant weight"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A passenger lurches forward when a car stops suddenly because of:",
+        "choices": [
+          "inertia",
+          "friction only",
+          "gravity only",
+          "mass loss"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Seatbelts help because they:",
+        "choices": [
+          "provide the force needed to change passenger motion",
+          "increase inertia",
+          "reduce mass",
+          "remove gravity"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The SI unit of speed is:",
+        "choices": [
+          "m/s",
+          "N",
+          "kg",
+          "m"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance = 100 m and time = 20 s, average speed is:",
+        "choices": [
+          "5 m/s",
+          "2 m/s",
+          "120 m/s",
+          "0.2 m/s"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If displacement = 50 m east in 10 s, average velocity is:",
+        "choices": [
+          "5 m/s east",
+          "5 m/s",
+          "0.2 m/s east",
+          "500 m/s east"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If an object returns to its starting point, its displacement is:",
+        "choices": [
+          "zero",
+          "equal to distance",
+          "negative distance",
+          "maximum"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A heavier object has more inertia because it has more:",
+        "choices": [
+          "mass",
+          "weight only",
+          "speed",
+          "displacement"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "On a graph, the slope of a distance-time graph gives:",
+        "choices": [
+          "speed",
+          "mass",
+          "weight",
+          "displacement direction"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "On a graph, the slope of a displacement-time graph gives:",
+        "choices": [
+          "velocity",
+          "speed only",
+          "mass",
+          "force"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "An object can have nonzero speed and zero velocity if it:",
+        "choices": [
+          "returns to its start over the full trip",
+          "moves in a straight line only",
+          "never changes direction",
+          "has no mass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If mass stays constant but gravity decreases, weight:",
+        "choices": [
+          "decreases",
+          "increases",
+          "stays the same",
+          "becomes zero always"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which is a vector quantity?",
+        "choices": [
+          "displacement",
+          "distance",
+          "speed",
+          "mass"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Which is a scalar quantity?",
+        "choices": [
+          "distance",
+          "displacement",
+          "velocity",
+          "force"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If a runner covers 400 m in 50 s, average speed is:",
+        "choices": [
+          "8 m/s",
+          "0.125 m/s",
+          "450 m/s",
+          "20 m/s"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fill",
+        "questionText": "Newton's First Law is the law of ______.",
+        "answer": "inertia"
+      },
+      {
+        "type": "fill",
+        "questionText": "Mass is measured in ______.",
+        "answer": "kilograms"
+      },
+      {
+        "type": "fill",
+        "questionText": "Weight is a force measured in ______.",
+        "answer": "newtons"
+      },
+      {
+        "type": "fill",
+        "questionText": "Average speed = total ______ divided by total time.",
+        "answer": "distance"
+      },
+      {
+        "type": "fill",
+        "questionText": "Velocity includes both magnitude and ______.",
+        "answer": "direction"
+      },
+      {
+        "type": "fill",
+        "questionText": "Distance is a ______ quantity.",
+        "answer": "scalar"
+      },
+      {
+        "type": "fill",
+        "questionText": "Displacement is a ______ quantity.",
+        "answer": "vector"
+      },
+      {
+        "type": "fill",
+        "questionText": "Weight near Earth can be found with W = m ______.",
+        "answer": "g"
+      }
+    ]
+  },
+  {
+    "id": "physics-electrostatics-field-potential-45q",
+    "course": "Physics",
+    "title": "Electrostatics, Electric Field & Electric Potential (45 Questions) - Mr. Mercado",
+    "timeLimitSeconds": 2700,
+    "questions": [
+      {
+        "type": "mc",
+        "questionText": "Electric charge is conserved, which means total charge:",
+        "choices": [
+          "stays constant in an isolated system",
+          "disappears over time",
+          "is created by friction",
+          "always becomes positive"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Two charges with the same sign:",
+        "choices": [
+          "repel",
+          "attract",
+          "neutralize",
+          "do nothing"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Two charges with opposite signs:",
+        "choices": [
+          "attract",
+          "repel",
+          "neutralize only if equal",
+          "move in circles"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The charge of an electron is:",
+        "choices": [
+          "negative",
+          "positive",
+          "neutral",
+          "variable"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The charge of a proton is:",
+        "choices": [
+          "positive",
+          "negative",
+          "neutral",
+          "variable"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A material where charges move easily is a:",
+        "choices": [
+          "conductor",
+          "insulator",
+          "ceramic",
+          "neutralizer"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A material where charges are tightly bound is an:",
+        "choices": [
+          "insulator",
+          "conductor",
+          "metal",
+          "plasma"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Charging by friction involves:",
+        "choices": [
+          "transfer of electrons by rubbing",
+          "movement of protons",
+          "creation of charge",
+          "destruction of charge"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Charging by conduction requires:",
+        "choices": [
+          "direct contact",
+          "no contact",
+          "only light",
+          "only heat"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Charging by induction requires:",
+        "choices": [
+          "nearby charged object and grounding",
+          "rubbing two objects",
+          "heating a metal",
+          "mixing solutions"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Grounding allows charge to:",
+        "choices": [
+          "flow to or from Earth",
+          "be created",
+          "be destroyed",
+          "stop moving forever"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Coulomb's law says the electric force is proportional to:",
+        "choices": [
+          "the product of the charges",
+          "the sum of the charges",
+          "the difference of the charges",
+          "the temperature"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The electric force decreases with:",
+        "choices": [
+          "the square of the distance",
+          "the distance",
+          "the cube of the distance",
+          "the square root of distance"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance doubles, the Coulomb force becomes:",
+        "choices": [
+          "one fourth",
+          "one half",
+          "twice",
+          "unchanged"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance is cut in half, the Coulomb force becomes:",
+        "choices": [
+          "four times larger",
+          "half as large",
+          "unchanged",
+          "one fourth"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If distance is tripled, the Coulomb force becomes:",
+        "choices": [
+          "one ninth",
+          "one third",
+          "three times",
+          "unchanged"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If one charge is zero, the electric force is:",
+        "choices": [
+          "zero",
+          "negative",
+          "infinite",
+          "equal to k"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "If both charges are doubled, the force becomes:",
+        "choices": [
+          "four times larger",
+          "twice as large",
+          "half as large",
+          "unchanged"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric field lines start on ____ charges and end on ____ charges.",
+        "choices": [
+          "positive, negative",
+          "negative, positive",
+          "neutral, positive",
+          "positive, neutral"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Where electric field lines are closer together, the field is:",
+        "choices": [
+          "stronger",
+          "weaker",
+          "zero",
+          "magnetic"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric field is defined as:",
+        "choices": [
+          "force per unit charge",
+          "energy per unit time",
+          "charge per unit volume",
+          "force per distance"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The direction of the electric field is the direction of the force on a:",
+        "choices": [
+          "positive test charge",
+          "negative test charge",
+          "neutral test charge",
+          "magnet"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Inside a conductor in electrostatic equilibrium, the electric field is:",
+        "choices": [
+          "zero",
+          "maximum",
+          "random",
+          "infinite"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Excess charge on a conductor in equilibrium resides on the:",
+        "choices": [
+          "surface",
+          "center",
+          "entire volume",
+          "edges only"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A Faraday cage is used to:",
+        "choices": [
+          "shield from external electric fields",
+          "create magnetic fields",
+          "increase charge",
+          "measure voltage"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Polarization in an insulator occurs when:",
+        "choices": [
+          "charges shift slightly within molecules",
+          "charges flow freely",
+          "protons move",
+          "electrons disappear"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The superposition principle means the net field is:",
+        "choices": [
+          "the vector sum of individual fields",
+          "the largest field only",
+          "the average field",
+          "always zero"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric potential is measured in:",
+        "choices": [
+          "volts",
+          "newtons",
+          "coulombs",
+          "watts"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Potential difference is defined as:",
+        "choices": [
+          "work per unit charge",
+          "force per distance",
+          "charge per time",
+          "energy per volume"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Moving a charge along an equipotential surface requires net work of:",
+        "choices": [
+          "zero",
+          "positive",
+          "negative",
+          "infinite"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Electric field points in the direction of:",
+        "choices": [
+          "decreasing potential",
+          "increasing potential",
+          "no potential change",
+          "only horizontal"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Between parallel charged plates, the field is:",
+        "choices": [
+          "approximately uniform",
+          "radial",
+          "zero",
+          "random"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "The electric field of a point charge is:",
+        "choices": [
+          "radial",
+          "circular",
+          "spiral",
+          "uniform everywhere"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "For a positive point charge, the field points:",
+        "choices": [
+          "outward",
+          "inward",
+          "clockwise",
+          "counterclockwise"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Two equal positive charges are placed symmetrically. The field at the midpoint is:",
+        "choices": [
+          "zero",
+          "maximum",
+          "negative",
+          "infinite"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "Two equal opposite charges are placed symmetrically. The field at the midpoint is:",
+        "choices": [
+          "nonzero and points from + to -",
+          "zero",
+          "infinite",
+          "random"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "mc",
+        "questionText": "A neutral object can be attracted to a charged object because of:",
+        "choices": [
+          "polarization",
+          "gravity",
+          "magnetism",
+          "fusion"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fill",
+        "questionText": "The SI unit of charge is the ______.",
+        "answer": "coulomb"
+      },
+      {
+        "type": "fill",
+        "questionText": "Coulomb's law: F = k q1 q2 / ______.",
+        "answer": "r^2"
+      },
+      {
+        "type": "fill",
+        "questionText": "Electric field is force per unit ______.",
+        "answer": "charge"
+      },
+      {
+        "type": "fill",
+        "questionText": "Electric potential is measured in ______.",
+        "answer": "volts"
+      },
+      {
+        "type": "fill",
+        "questionText": "Field lines start on ______ charges.",
+        "answer": "positive"
+      },
+      {
+        "type": "fill",
+        "questionText": "Field lines end on ______ charges.",
+        "answer": "negative"
+      },
+      {
+        "type": "fill",
+        "questionText": "Inside a conductor in electrostatic equilibrium, the electric field is ______.",
+        "answer": "zero"
+      },
+      {
+        "type": "fill",
+        "questionText": "A surface of constant potential is called an ______ surface.",
+        "answer": "equipotential"
+      }
+    ]
+  },
+  {
     "id": "physics-work-energy-power",
     "course": "Physics",
     "title": "Work, Energy & Power",
@@ -503,267 +1413,6 @@
     ]
   },
   {
-    "id": "physics-electrostatics-electric-field-potential-45q",
-    "course": "Physics",
-    "title": "Electrostatics, Electric Field & Electric Potential (45 Questions) - Mr. Mercado",
-    "timeLimitSeconds": 2700,
-    "questions": [
-      {
-        "type": "mc",
-        "questionText": "Which particle has a negative electric charge?",
-        "choices": ["Proton", "Neutron", "Electron", "Atom"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Objects with the same type of charge will",
-        "choices": ["Attract each other", "Repel each other", "Become neutral", "Lose mass"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "When an object loses electrons, it becomes",
-        "choices": ["Negatively charged", "Neutral", "Positively charged", "Heavier"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Static electricity is mainly caused by",
-        "choices": ["Gravity", "Motion of protons", "Transfer of electrons", "Heat"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Which process involves rubbing two objects together?",
-        "choices": ["Conduction", "Induction", "Friction", "Polarization"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "What happens during charging by contact?",
-        "choices": ["Objects do not touch", "Charges move through air", "Objects touch and share charge", "Charges disappear"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Charging by induction requires",
-        "choices": ["Direct contact", "No contact", "Water", "Heat"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "An electric field exists",
-        "choices": ["Only inside wires", "Only when objects touch", "Around electric charges", "Only in metals"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Electric field lines always point",
-        "choices": ["From negative to positive", "From positive to negative", "In circles", "Randomly"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "A stronger electric field means",
-        "choices": ["Weaker force on a charge", "No force on a charge", "Greater force on a charge", "No charges nearby"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Electric potential is best described as",
-        "choices": ["Electric force", "Electric energy per charge", "Electric current", "Resistance"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "Electric potential is commonly measured in",
-        "choices": ["Newtons", "Coulombs", "Volts", "Amperes"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "A surface where electric potential is the same everywhere is called",
-        "choices": ["Electric surface", "Field surface", "Equipotential surface", "Neutral surface"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Moving a charge along an equipotential surface requires",
-        "choices": ["A lot of work", "Some work", "No work", "Maximum force"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Which charge creates an electric field?",
-        "choices": ["Only positive charges", "Only negative charges", "Only neutral objects", "Any electric charge"],
-        "correctIndex": 3
-      },
-      {
-        "type": "mc",
-        "questionText": "If distance between two charges increases, the electric force",
-        "choices": ["Increases", "Decreases", "Stays the same", "Becomes zero instantly"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "Coulomb's Law relates electric force to",
-        "choices": ["Mass and speed", "Charge and distance", "Energy and time", "Voltage and current"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "The unit of electric charge is",
-        "choices": ["Volt", "Newton", "Coulomb", "Joule"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "An object with equal protons and electrons is",
-        "choices": ["Positively charged", "Negatively charged", "Neutral", "Polarized"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Which situation shows electrostatic attraction?",
-        "choices": ["Two positive charges close together", "Two negative charges far apart", "A charged balloon sticking to a wall", "A neutral object alone"],
-        "correctIndex": 2
-      },
-      {
-        "type": "fill",
-        "questionText": "Like charges ________ each other. (attract / repel)",
-        "answer": "repel"
-      },
-      {
-        "type": "fill",
-        "questionText": "Unlike charges ________ each other. (attract / repel)",
-        "answer": "attract"
-      },
-      {
-        "type": "fill",
-        "questionText": "Electric force acts at a ________. (distance / contact)",
-        "answer": "distance"
-      },
-      {
-        "type": "fill",
-        "questionText": "An electric field shows the region where a ________ feels a force. (charge / mass)",
-        "answer": "charge"
-      },
-      {
-        "type": "fill",
-        "questionText": "Electric potential tells how much ________ a charge has. (energy / mass)",
-        "answer": "energy"
-      },
-      {
-        "type": "fill",
-        "questionText": "Coulomb's Law is used to calculate electric ________. (force / potential)",
-        "answer": "force"
-      },
-      {
-        "type": "fill",
-        "questionText": "When electrons move from one object to another, the objects become ________. (charged / heavier)",
-        "answer": "charged"
-      },
-      {
-        "type": "fill",
-        "questionText": "Electric field lines never ________. (cross / stop)",
-        "answer": "cross"
-      },
-      {
-        "type": "fill",
-        "questionText": "The closer two charges are, the ________ the electric force. (stronger / weaker)",
-        "answer": "stronger"
-      },
-      {
-        "type": "fill",
-        "questionText": "A volt measures electric ________. (potential / charge)",
-        "answer": "potential"
-      },
-      {
-        "type": "fill",
-        "questionText": "The particle with no electric charge is called a __________.",
-        "answer": "neutron"
-      },
-      {
-        "type": "fill",
-        "questionText": "The buildup of electric charges on an object is called __________ electricity.",
-        "answer": "static"
-      },
-      {
-        "type": "fill",
-        "questionText": "The area around a charge where it can affect other charges is the electric __________.",
-        "answer": "field"
-      },
-      {
-        "type": "fill",
-        "questionText": "A surface of constant electric potential is called an __________ surface.",
-        "answer": "equipotential"
-      },
-      {
-        "type": "fill",
-        "questionText": "The law that describes the force between two charges is called __________ Law.",
-        "answer": "coulomb"
-      },
-      {
-        "type": "fill",
-        "questionText": "Two charges of +2 C and +2 C are placed close together. Are they attracting or repelling?",
-        "answer": "repelling"
-      },
-      {
-        "type": "fill",
-        "questionText": "Two charges of +3 C and -3 C are placed near each other. Are they attracting or repelling?",
-        "answer": "attracting"
-      },
-      {
-        "type": "mc",
-        "questionText": "If the distance between two charges doubles, the electric force becomes",
-        "choices": ["Twice as large", "Half as large", "Four times smaller", "Four times larger"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "If one charge is zero, the electric force is",
-        "choices": ["Maximum", "Minimum", "Zero", "Infinite"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "If both charges increase, the electric force will",
-        "choices": ["Decrease", "Stay the same", "Increase", "Disappear"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "Two charges are 1 m apart. If the distance becomes 2 m, the force becomes",
-        "choices": ["2 times bigger", "2 times smaller", "4 times smaller", "4 times bigger"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "If the charges are opposite in sign, the force is",
-        "choices": ["Repulsive", "Attractive", "Zero", "Random"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "Which factor does NOT affect Coulomb force?",
-        "choices": ["Charge value", "Distance", "Mass", "Medium"],
-        "correctIndex": 2
-      },
-      {
-        "type": "mc",
-        "questionText": "If distance decreases, electric force",
-        "choices": ["Decreases", "Increases", "Stays constant", "Becomes zero"],
-        "correctIndex": 1
-      },
-      {
-        "type": "mc",
-        "questionText": "Coulomb's Law is similar to which other law in physics?",
-        "choices": ["Ohm's Law", "Newton's Law of Gravitation", "Law of Conservation of Energy", "Boyle's Law"],
-        "correctIndex": 1
-      }
-    ]
-  },
-  {
     "id": "chemistry-mole-concept-45q",
     "course": "Chemistry",
     "title": "Mole Concept Review (45 Questions) - Mr. Mercado",
@@ -772,283 +1421,518 @@
       {
         "type": "mc",
         "questionText": "Avogadro's number is approximately:",
-        "choices": ["6.022 x 10^23", "6.022 x 10^22", "3.01 x 10^23", "1.00 x 10^23"],
+        "choices": [
+          "6.022 x 10^23",
+          "6.022 x 10^22",
+          "3.01 x 10^23",
+          "1.00 x 10^23"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "One mole is defined as:",
-        "choices": ["6.022 x 10^23 entities", "1 gram of a substance", "1 liter of gas", "10^20 particles"],
+        "choices": [
+          "6.022 x 10^23 entities",
+          "1 gram of a substance",
+          "1 liter of gas",
+          "10^20 particles"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The unit of molar mass is:",
-        "choices": ["g", "g/mol", "mol/L", "L/mol"],
+        "choices": [
+          "g",
+          "g/mol",
+          "mol/L",
+          "L/mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "How many particles are in 0.50 mol?",
-        "choices": ["3.011 x 10^23", "6.022 x 10^23", "1.204 x 10^24", "3.011 x 10^22"],
+        "choices": [
+          "3.011 x 10^23",
+          "6.022 x 10^23",
+          "1.204 x 10^24",
+          "3.011 x 10^22"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "How many moles are in 1.204 x 10^24 particles?",
-        "choices": ["0.5 mol", "1 mol", "2 mol", "3 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2 mol",
+          "3 mol"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "The molar mass of H2O is about:",
-        "choices": ["18 g/mol", "16 g/mol", "20 g/mol", "22 g/mol"],
+        "choices": [
+          "18 g/mol",
+          "16 g/mol",
+          "20 g/mol",
+          "22 g/mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The molar mass of CO2 is about:",
-        "choices": ["28 g/mol", "32 g/mol", "44 g/mol", "18 g/mol"],
+        "choices": [
+          "28 g/mol",
+          "32 g/mol",
+          "44 g/mol",
+          "18 g/mol"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "How many moles are in 36 g of H2O?",
-        "choices": ["1 mol", "2 mol", "0.5 mol", "4 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "0.5 mol",
+          "4 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "The mass of 2.0 mol of NaCl (58.5 g/mol) is about:",
-        "choices": ["117 g", "58.5 g", "29.3 g", "234 g"],
+        "choices": [
+          "117 g",
+          "58.5 g",
+          "29.3 g",
+          "234 g"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "If you have 5.0 g of H2 (2 g/mol), how many moles is that?",
-        "choices": ["1.0 mol", "2.5 mol", "5.0 mol", "10 mol"],
+        "choices": [
+          "1.0 mol",
+          "2.5 mol",
+          "5.0 mol",
+          "10 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "0.10 mol of particles contains approximately:",
-        "choices": ["6.022 x 10^22", "6.022 x 10^23", "3.011 x 10^23", "1.204 x 10^24"],
+        "choices": [
+          "6.022 x 10^22",
+          "6.022 x 10^23",
+          "3.011 x 10^23",
+          "1.204 x 10^24"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The molar volume of an ideal gas at STP is about:",
-        "choices": ["22.4 L", "24.0 L", "11.2 L", "44.8 L"],
+        "choices": [
+          "22.4 L",
+          "24.0 L",
+          "11.2 L",
+          "44.8 L"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The correct relationship between m, n, and M is:",
-        "choices": ["n = m / M", "M = m / n^2", "m = M / n", "n = M / m"],
+        "choices": [
+          "n = m / M",
+          "M = m / n^2",
+          "m = M / n",
+          "n = M / m"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The formula for mass from moles is:",
-        "choices": ["m = nM", "m = n / M", "m = M / n", "m = n + M"],
+        "choices": [
+          "m = nM",
+          "m = n / M",
+          "m = M / n",
+          "m = n + M"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The formula for particles is:",
-        "choices": ["N = n x NA", "N = n / NA", "N = NA / n", "N = n + NA"],
+        "choices": [
+          "N = n x NA",
+          "N = n / NA",
+          "N = NA / n",
+          "N = n + NA"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "44 g of CO2 correspond to:",
-        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2 mol",
+          "4 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "The mass of 0.25 mol of CO2 is about:",
-        "choices": ["11 g", "22 g", "44 g", "88 g"],
+        "choices": [
+          "11 g",
+          "22 g",
+          "44 g",
+          "88 g"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The mass of 3.0 mol of O2 (32 g/mol) is:",
-        "choices": ["64 g", "96 g", "128 g", "32 g"],
+        "choices": [
+          "64 g",
+          "96 g",
+          "128 g",
+          "32 g"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "How many moles are in 16 g of O2 (32 g/mol)?",
-        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2 mol",
+          "4 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "How many particles are in 3.0 mol?",
-        "choices": ["1.8066 x 10^24", "6.022 x 10^23", "3.011 x 10^23", "9.03 x 10^22"],
+        "choices": [
+          "1.8066 x 10^24",
+          "6.022 x 10^23",
+          "3.011 x 10^23",
+          "9.03 x 10^22"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "At constant temperature and pressure, gas volume is proportional to:",
-        "choices": ["moles", "molar mass", "density", "temperature"],
+        "choices": [
+          "moles",
+          "molar mass",
+          "density",
+          "temperature"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The volume of 2.0 mol of a gas at STP is about:",
-        "choices": ["11.2 L", "22.4 L", "44.8 L", "2.0 L"],
+        "choices": [
+          "11.2 L",
+          "22.4 L",
+          "44.8 L",
+          "2.0 L"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "How many moles are in 11.2 L of a gas at STP?",
-        "choices": ["0.25 mol", "0.5 mol", "1 mol", "2 mol"],
+        "choices": [
+          "0.25 mol",
+          "0.5 mol",
+          "1 mol",
+          "2 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "How many molecules are in 5.0 mol?",
-        "choices": ["3.011 x 10^24", "6.022 x 10^23", "1.204 x 10^24", "5.0 x 10^23"],
+        "choices": [
+          "3.011 x 10^24",
+          "6.022 x 10^23",
+          "1.204 x 10^24",
+          "5.0 x 10^23"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The molar mass of sodium (Na) is about:",
-        "choices": ["23 g/mol", "12 g/mol", "39 g/mol", "16 g/mol"],
+        "choices": [
+          "23 g/mol",
+          "12 g/mol",
+          "39 g/mol",
+          "16 g/mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The molar mass of CaCl2 is closest to:",
-        "choices": ["74 g/mol", "111 g/mol", "58.5 g/mol", "98 g/mol"],
+        "choices": [
+          "74 g/mol",
+          "111 g/mol",
+          "58.5 g/mol",
+          "98 g/mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "The mass of 0.10 mol of CaCl2 is about:",
-        "choices": ["11.1 g", "5.85 g", "22.2 g", "1.11 g"],
+        "choices": [
+          "11.1 g",
+          "5.85 g",
+          "22.2 g",
+          "1.11 g"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "18 g of glucose (C6H12O6, 180 g/mol) is:",
-        "choices": ["0.10 mol", "0.50 mol", "1 mol", "2 mol"],
+        "choices": [
+          "0.10 mol",
+          "0.50 mol",
+          "1 mol",
+          "2 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "6.022 x 10^23 atoms of Mg correspond to:",
-        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "0.5 mol",
+          "3 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "1.204 x 10^24 atoms correspond to:",
-        "choices": ["0.5 mol", "1 mol", "2 mol", "4 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2 mol",
+          "4 mol"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which statement about molar mass is correct?",
-        "choices": ["It equals the formula mass in g/mol", "It is measured in mol/L", "It is always 1 g/mol", "It equals the number of particles"],
+        "choices": [
+          "It equals the formula mass in g/mol",
+          "It is measured in mol/L",
+          "It is always 1 g/mol",
+          "It equals the number of particles"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "46 g of Na corresponds to:",
-        "choices": ["1 mol", "2 mol", "3 mol", "0.5 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "3 mol",
+          "0.5 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "How many moles of H atoms are in 1 mol of H2?",
-        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "0.5 mol",
+          "3 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "The correct conversion from particles to moles is:",
-        "choices": ["n = N / NA", "n = N x NA", "n = NA / N", "n = N + NA"],
+        "choices": [
+          "n = N / NA",
+          "n = N x NA",
+          "n = NA / N",
+          "n = N + NA"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "3.01 x 10^23 molecules correspond to:",
-        "choices": ["0.5 mol", "1 mol", "2 mol", "3 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2 mol",
+          "3 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "0.20 mol of O2 contains how many molecules?",
-        "choices": ["1.204 x 10^23", "6.022 x 10^22", "2.408 x 10^23", "3.011 x 10^23"],
+        "choices": [
+          "1.204 x 10^23",
+          "6.022 x 10^22",
+          "2.408 x 10^23",
+          "3.011 x 10^23"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "0.20 mol of O2 contains how many atoms?",
-        "choices": ["2.408 x 10^23", "1.204 x 10^23", "6.022 x 10^23", "3.011 x 10^23"],
+        "choices": [
+          "2.408 x 10^23",
+          "1.204 x 10^23",
+          "6.022 x 10^23",
+          "3.011 x 10^23"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "The mass of 1 mol of H2O is:",
-        "choices": ["18 g", "16 g", "20 g", "22 g"],
+        "choices": [
+          "18 g",
+          "16 g",
+          "20 g",
+          "22 g"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "If the molar mass is 50 g/mol, 125 g corresponds to:",
-        "choices": ["0.5 mol", "1 mol", "2.5 mol", "5 mol"],
+        "choices": [
+          "0.5 mol",
+          "1 mol",
+          "2.5 mol",
+          "5 mol"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Avogadro's number tells the number of ______ in one mole.",
-        "choices": ["particles", "grams", "liters", "seconds"],
+        "choices": [
+          "particles",
+          "grams",
+          "liters",
+          "seconds"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "12 g of carbon corresponds to:",
-        "choices": ["1 mol", "2 mol", "0.5 mol", "3 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "0.5 mol",
+          "3 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "24 g of carbon corresponds to:",
-        "choices": ["1 mol", "2 mol", "3 mol", "0.5 mol"],
+        "choices": [
+          "1 mol",
+          "2 mol",
+          "3 mol",
+          "0.5 mol"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "How many moles are in 2.24 L of a gas at STP?",
-        "choices": ["0.10 mol", "0.20 mol", "0.50 mol", "1.00 mol"],
+        "choices": [
+          "0.10 mol",
+          "0.20 mol",
+          "0.50 mol",
+          "1.00 mol"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "How many liters at STP correspond to 0.25 mol of gas?",
-        "choices": ["5.6 L", "11.2 L", "22.4 L", "2.24 L"],
+        "choices": [
+          "5.6 L",
+          "11.2 L",
+          "22.4 L",
+          "2.24 L"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which is required to convert mass to moles?",
-        "choices": ["Molar mass", "Temperature", "Density", "Pressure"],
+        "choices": [
+          "Molar mass",
+          "Temperature",
+          "Density",
+          "Pressure"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which equation relates moles, particles, and Avogadro's number?",
-        "choices": ["N = n x NA", "N = n / NA", "n = NA / N", "N = NA - n"],
+        "choices": [
+          "N = n x NA",
+          "N = n / NA",
+          "n = NA / N",
+          "N = NA - n"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which set of units matches molar mass?",
-        "choices": ["g/mol", "mol/L", "g/L", "L/mol"],
+        "choices": [
+          "g/mol",
+          "mol/L",
+          "g/L",
+          "L/mol"
+        ],
         "correctIndex": 0
       }
     ]
@@ -1062,175 +1946,320 @@
       {
         "type": "mc",
         "questionText": "Which element is a metal?",
-        "choices": ["Oxygen", "Sulfur", "Sodium", "Chlorine"],
+        "choices": [
+          "Oxygen",
+          "Sulfur",
+          "Sodium",
+          "Chlorine"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which element is a nonmetal?",
-        "choices": ["Iron", "Calcium", "Nitrogen", "Aluminum"],
+        "choices": [
+          "Iron",
+          "Calcium",
+          "Nitrogen",
+          "Aluminum"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which element is a metalloid?",
-        "choices": ["Silicon", "Sodium", "Argon", "Bromine"],
+        "choices": [
+          "Silicon",
+          "Sodium",
+          "Argon",
+          "Bromine"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Most elements on the periodic table are:",
-        "choices": ["Nonmetals", "Metals", "Metalloids", "Noble gases"],
+        "choices": [
+          "Nonmetals",
+          "Metals",
+          "Metalloids",
+          "Noble gases"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which group contains the noble gases?",
-        "choices": ["Group 1", "Group 2", "Group 17", "Group 18"],
+        "choices": [
+          "Group 1",
+          "Group 2",
+          "Group 17",
+          "Group 18"
+        ],
         "correctIndex": 3
       },
       {
         "type": "mc",
         "questionText": "Which group contains the alkali metals?",
-        "choices": ["Group 1", "Group 2", "Group 16", "Group 18"],
+        "choices": [
+          "Group 1",
+          "Group 2",
+          "Group 16",
+          "Group 18"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which element is in Group 17?",
-        "choices": ["Neon", "Chlorine", "Sodium", "Magnesium"],
+        "choices": [
+          "Neon",
+          "Chlorine",
+          "Sodium",
+          "Magnesium"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Elements in the same group have the same number of:",
-        "choices": ["Protons", "Neutrons", "Valence electrons", "Energy levels"],
+        "choices": [
+          "Protons",
+          "Neutrons",
+          "Valence electrons",
+          "Energy levels"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Elements in the same period have the same number of:",
-        "choices": ["Valence electrons", "Protons", "Energy levels", "Neutrons"],
+        "choices": [
+          "Valence electrons",
+          "Protons",
+          "Energy levels",
+          "Neutrons"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which element is an alkaline earth metal?",
-        "choices": ["Sodium", "Magnesium", "Potassium", "Chlorine"],
+        "choices": [
+          "Sodium",
+          "Magnesium",
+          "Potassium",
+          "Chlorine"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which element is a transition metal?",
-        "choices": ["Iron", "Calcium", "Oxygen", "Neon"],
+        "choices": [
+          "Iron",
+          "Calcium",
+          "Oxygen",
+          "Neon"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which property generally increases from left to right across a period?",
-        "choices": ["Atomic radius", "Metallic character", "Electronegativity", "Number of shells"],
+        "choices": [
+          "Atomic radius",
+          "Metallic character",
+          "Electronegativity",
+          "Number of shells"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which property generally increases down a group?",
-        "choices": ["Electronegativity", "Ionization energy", "Atomic radius", "Nonmetal character"],
+        "choices": [
+          "Electronegativity",
+          "Ionization energy",
+          "Atomic radius",
+          "Nonmetal character"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "What type of compound is formed between a metal and a nonmetal?",
-        "choices": ["Covalent", "Ionic", "Metallic", "Organic"],
+        "choices": [
+          "Covalent",
+          "Ionic",
+          "Metallic",
+          "Organic"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "What type of compound is formed between two nonmetals?",
-        "choices": ["Ionic", "Metallic", "Covalent", "Ionic lattice"],
+        "choices": [
+          "Ionic",
+          "Metallic",
+          "Covalent",
+          "Ionic lattice"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "NaCl is best described as:",
-        "choices": ["A molecule", "A covalent compound", "An ionic compound", "An element"],
+        "choices": [
+          "A molecule",
+          "A covalent compound",
+          "An ionic compound",
+          "An element"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "CO2 is best described as:",
-        "choices": ["An ionic compound", "A covalent compound", "A metal", "A formula unit"],
+        "choices": [
+          "An ionic compound",
+          "A covalent compound",
+          "A metal",
+          "A formula unit"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which name is correct for NaCl?",
-        "choices": ["Sodium chlorine", "Sodium chlorate", "Sodium chloride", "Sodium chlorite"],
+        "choices": [
+          "Sodium chlorine",
+          "Sodium chlorate",
+          "Sodium chloride",
+          "Sodium chlorite"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which name is correct for CaO?",
-        "choices": ["Calcium oxygen", "Calcium oxide", "Calcium dioxide", "Calcium peroxide"],
+        "choices": [
+          "Calcium oxygen",
+          "Calcium oxide",
+          "Calcium dioxide",
+          "Calcium peroxide"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which compound is named carbon monoxide?",
-        "choices": ["CO", "CO2", "C2O", "C2O2"],
+        "choices": [
+          "CO",
+          "CO2",
+          "C2O",
+          "C2O2"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which prefix means two?",
-        "choices": ["Mono-", "Di-", "Tri-", "Tetra-"],
+        "choices": [
+          "Mono-",
+          "Di-",
+          "Tri-",
+          "Tetra-"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which prefix is NOT used for the first element in covalent naming?",
-        "choices": ["Mono-", "Di-", "Tri-", "Tetra-"],
+        "choices": [
+          "Mono-",
+          "Di-",
+          "Tri-",
+          "Tetra-"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "What is the correct name for N2O?",
-        "choices": ["Nitrogen oxide", "Dinitrogen monoxide", "Nitrogen dioxide", "Mononitrogen oxide"],
+        "choices": [
+          "Nitrogen oxide",
+          "Dinitrogen monoxide",
+          "Nitrogen dioxide",
+          "Mononitrogen oxide"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "What is the correct formula for sulfur dioxide?",
-        "choices": ["SO", "SO2", "S2O", "S2O2"],
+        "choices": [
+          "SO",
+          "SO2",
+          "S2O",
+          "S2O2"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which element has atomic number 8?",
-        "choices": ["Nitrogen", "Oxygen", "Carbon", "Fluorine"],
+        "choices": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon",
+          "Fluorine"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which element is a halogen?",
-        "choices": ["Neon", "Chlorine", "Sodium", "Magnesium"],
+        "choices": [
+          "Neon",
+          "Chlorine",
+          "Sodium",
+          "Magnesium"
+        ],
         "correctIndex": 1
       },
       {
         "type": "mc",
         "questionText": "Which element is a noble gas?",
-        "choices": ["Oxygen", "Nitrogen", "Neon", "Chlorine"],
+        "choices": [
+          "Oxygen",
+          "Nitrogen",
+          "Neon",
+          "Chlorine"
+        ],
         "correctIndex": 2
       },
       {
         "type": "mc",
         "questionText": "Which charge does a Group 1 metal usually form?",
-        "choices": ["+1", "+2", "-1", "-2"],
+        "choices": [
+          "+1",
+          "+2",
+          "-1",
+          "-2"
+        ],
         "correctIndex": 0
       },
       {
         "type": "mc",
         "questionText": "Which charge does a Group 17 element usually form?",
-        "choices": ["+1", "+2", "-1", "-2"],
+        "choices": [
+          "+1",
+          "+2",
+          "-1",
+          "-2"
+        ],
         "correctIndex": 2
       },
       {
